@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm a passionate frontend developer and UI/UX designer currently pursuing a **B.Tech in Computer Science and Artificial Intelligence** at **Newton School of Technology**. I blend technical expertise with creative design to build immersive digital experiences that are both beautiful and functional.
+I'm a passionate Frontend developer and UI/UX designer currently pursuing a **B.Tech in Computer Science and Artificial Intelligence** at **Newton School of Technology**. I blend technical expertise with creative design to build immersive digital experiences that are both beautiful and functional.
 
 ```javascript
 const saumya = {
