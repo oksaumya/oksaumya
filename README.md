@@ -55,8 +55,8 @@ const saumya = {
   ],
   
   currentlyWorking: [
-    "🔥 KubeStellar Design System @ Linux Foundation",
-    "☁️ Next.js + Oracle Cloud Infrastructure",
+    "🔥 @Linux Foundation Mentor",
+    "☁️ @KubeStellar Maintainer",
     "🎯 Production-ready Design Systems"
   ],
   
