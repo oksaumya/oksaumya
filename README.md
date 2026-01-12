@@ -4,15 +4,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&lines=Full+Stack+Developer;UI+UX+Designer;AI+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Gen+AI+Developer;UI+UX+Designer;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation" />
 </div>
 <br>
-
 
 ---
 
@@ -23,11 +21,15 @@
 </div>
 
 <p align="center">
-I'm a passionate <strong>Full Stack Web Developer</strong> and <strong>UI/UX Designer</strong> with expertise in building scalable web applications and creating intuitive user experiences. As a <strong>Computer Science and AI student</strong> with a <strong>1100+ rating on Codeforces</strong>, I bridge the gap between algorithmic thinking and practical software development.
+I'm a passionate <strong>Full Stack Web Developer</strong>, <strong>Gen AI Developer</strong>, and <strong>UI/UX Designer</strong> with expertise in building scalable web applications and AI-powered solutions. As a <strong>Computer Science and AI student</strong> with a <strong>1100+ rating on Codeforces</strong>, I bridge the gap between algorithmic thinking, artificial intelligence, and practical software development.
 </p>
 
 <p align="center">
-I thrive on solving complex problems through elegant code and turning ideas into interactive digital experiences that users love. Whether it's building real-time chat applications, AI-powered tools, or designing seamless user interfaces, I bring both technical depth and creative vision to every project.
+Currently working as a <strong>Generative AI Intern @ Kunishe Software</strong>, I specialize in developing OCR solutions with PaddleOCR, building vector-based document matching systems with Qdrant, and creating intelligent ML pipelines. As an <strong>LFX Mentor @ Linux Foundation</strong> and <strong>Core Maintainer @ CNCF KubeStellar</strong>, I've mentored 15+ contributors and delivered production-ready design systems.
+</p>
+
+<p align="center">
+I thrive on solving complex problems through elegant code and turning ideas into interactive digital experiences that users love. Whether it's building real-time collaborative platforms, AI-powered tools, or designing seamless user interfaces, I bring both technical depth and creative vision to every project.
 </p>
 
 <div align="center">
@@ -36,40 +38,43 @@ I thrive on solving complex problems through elegant code and turning ideas into
 
 <br>
 
-
 ```javascript
 const saumya = {
   pronouns: "He/Him",
   location: "Delhi-NCR, India 🇮🇳",
-  education: "B.Tech CSE with AI",
-  currentRole: "🔧 Mentor @ Linux Foundation | 🎨 Frontend Developer | 💡 UI/UX Designer",
+  education: "B.Tech CSE with AI @ Newton School of Technology",
+  currentRole: "🤖 Gen AI Developer @ Kunishe | 🎓 LFX Mentor | ☁️ CNCF Maintainer",
   codeforces: "1100+ Rating 🏆",
   
   focus: [
     "🚀 Full Stack Web Development (MERN)",
+    "🤖 Generative AI & Machine Learning",
     "🎨 UI/UX Design & Research", 
     "🌟 Interactive Web Experiences with Three.js",
-    "🤖 AI/ML Integration & Data Analysis",
+    "📊 OCR & Vector Databases (PaddleOCR, Qdrant)",
     "⚡ Competitive Programming & DSA",
     "♿ Design Systems & Accessibility"
   ],
   
   currentlyWorking: [
-    "🔥 @Linux Foundation Mentor",
-    "☁️ @KubeStellar Maintainer",
+    "🔥 Gen AI Intern @ Kunishe Software",
+    "🎓 LFX Mentor @ Linux Foundation",
+    "☁️ Core Maintainer @ CNCF KubeStellar",
     "🎯 Production-ready Design Systems"
   ],
   
   expertise: [
-    "⚛️ React.js, Node.js, MongoDB (MERN Stack)",
-    "🐍 Python, Django, Flask",
+    "⚛️ React.js, Next.js, Node.js, MongoDB (MERN Stack)",
+    "🤖 Gen AI, OCR, Vector Databases, ML Pipelines",
+    "🐍 Python, Django, Flask, Go",
     "🎨 UI/UX Design with Figma",
-    "📊 Data Analysis with Pandas, NumPy",
-    "🏆 Competitive Programming (C++, Python)"
+    "📊 Data Analysis with Pandas, NumPy, scikit-learn",
+    "🏆 Competitive Programming (C++, Python)",
+    "☁️ Docker, Kubernetes, Oracle Cloud, AWS"
   ],
   
-  lifePhilosophy: "Turning complex problems into elegant solutions! 🌟",
-  funFact: "I solve algorithms by day and create beautiful UIs by night! 🌙✨"
+  lifePhilosophy: "Turning complex problems into elegant AI-powered solutions! 🌟",
+  funFact: "I build AI models by day and create beautiful UIs by night! 🌙✨"
 };
 ```
 
@@ -84,7 +89,7 @@ const saumya = {
   
   <br>
   
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://oksaumya.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white&logo=vercel" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/oksaumya" target="_blank">
@@ -96,7 +101,7 @@ const saumya = {
   <a href="mailto:saumyakr2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/YOURUSERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/oksaumya" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   
@@ -126,6 +131,7 @@ const saumya = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
@@ -148,7 +154,9 @@ const saumya = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -165,6 +173,7 @@ const saumya = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -177,7 +186,9 @@ const saumya = {
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
@@ -188,8 +199,14 @@ const saumya = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -205,8 +222,11 @@ const saumya = {
 <div align="center">
 
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT_NER-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT_NER-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -241,7 +261,73 @@ const saumya = {
     </tr>
   </table>
   
+  <br>
+  
+  <p><strong>📖 Relevant Coursework:</strong></p>
+  <p>Data Structures & Algorithms • Machine Learning • Deep Learning • Computer Vision<br>
+  Operating Systems • Computer Networks • Object-Oriented Programming<br>
+  Database Management Systems • Software Engineering</p>
+  
 </div>
+
+---
+
+## <div align="center">💼 Professional Experience</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  <br><br>
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
+      <br><br>
+      <strong>🤖 Generative AI Intern</strong>
+      <br>
+      <em>Kunishe Software Private Limited</em>
+      <br>
+      <strong>Nov 2025 - Present</strong>
+      <br><br>
+      • OCR Solutions with PaddleOCR<br>
+      • Vector Database (Qdrant)<br>
+      • Post-OCR Processing Pipelines<br>
+      • Text Normalization & Fuzzy Matching<br>
+      • Machine Learning Workflows
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+      <br><br>
+      <strong>🎓 LFX Mentor</strong>
+      <br>
+      <em>Linux Foundation Mentorship</em>
+      <br>
+      <strong>Sep 2025 - Nov 2025</strong>
+      <br><br>
+      • Mentored <strong>5+ Contributors</strong><br>
+      • Delivered <strong>50+ WCAG 2.1 AA Components</strong><br>
+      • Reduced Support Requests by <strong>70%</strong><br>
+      • Achieved <strong>99.9% Uptime</strong><br>
+      • Dockerized Workloads & CI/CD
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" />
+      <br><br>
+      <strong>☁️ Core Maintainer</strong>
+      <br>
+      <em>CNCF KubeStellar</em>
+      <br>
+      <strong>Mar 2025 - Present</strong>
+      <br><br>
+      • Reviewed <strong>150+ PRs</strong><br>
+      • Mentored <strong>10+ Contributors</strong><br>
+      • Improved Visibility by <strong>40%</strong><br>
+      • Performance Boost of <strong>35%</strong><br>
+      • Led UI/UX Initiatives
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -277,13 +363,84 @@ const saumya = {
       </td>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="AI/ML">
-        <h3>🤖 AI/ML Integration</h3>
-        <p>Developing intelligent applications using Python, implementing machine learning models, and creating AI-powered tools for real-world problem solving.</p>
+        <h3>🤖 Gen AI & ML</h3>
+        <p>Developing intelligent applications using Python, implementing OCR with PaddleOCR, vector databases with Qdrant, and creating AI-powered tools for real-world problem solving.</p>
         <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask" />
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+## <div align="center">🚀 Featured Projects</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+  <br><br>
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+      <br><br>
+      <h3>🧠 MindMesh - Collaborative Study Platform</h3>
+      <br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+      <br><br>
+      <p align="left">
+        ✨ <strong>Full-stack real-time study platform</strong><br><br>
+        📹 Video Calls with WebRTC<br>
+        🎨 Collaborative Whiteboard<br>
+        💻 Real-time Code Editor<br>
+        📊 Analytics & Study Tracking<br>
+        💳 Razorpay Integration<br>
+        🔐 JWT Authentication<br>
+        ☁️ Cloudinary Integration<br>
+        📧 Nodemailer Support<br><br>
+        <strong>📈 Impact:</strong><br>
+        • <strong>40%</strong> Productivity Boost<br>
+        • <strong>25%</strong> Learning Efficiency<br>
+        • <strong>30%</strong> Latency Reduction<br>
+        • <strong>99.9%</strong> Uptime
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+      <br><br>
+      <h3>🍽️ ResQCart - Food Waste Prediction</h3>
+      <br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <br><br>
+      <p align="left">
+        ✨ <strong>AI-powered food waste prevention</strong><br><br>
+        🤖 AI Spoilage Prediction Model<br>
+        💰 Dynamic Pricing Engine<br>
+        🏪 Store Rebalancing System<br>
+        🤝 Food Bank Coordination<br>
+        📊 Predictive Analytics Dashboard<br>
+        📈 Waste Pattern Analysis<br>
+        🎯 Trend Identification<br><br>
+        <strong>📈 Performance:</strong><br>
+        • <strong>78%</strong> Prediction Accuracy<br>
+        • <strong>1,400+</strong> Image Dataset<br>
+        • <strong>2K+</strong> Data Points Processed<br>
+        • Automated Rescue Cascade
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -309,6 +466,12 @@ const saumya = {
   <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksaumya&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd" alt="Most Used Languages" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oksaumya&bg_color=0d1117&color=6366f1&line=6366f1&point=ff6b35&area=true&hide_border=true&custom_title=📈%20Contribution%20Journey" alt="Contribution Graph" />
+</div>
+
 ---
 
 ## <div align="center">📊 Detailed Analytics & Achievements</div>
@@ -328,19 +491,19 @@ const saumya = {
         <br>
         <img src="https://img.shields.io/badge/Codeforces-1100+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
         <br><strong>🏆 Competitive Programming</strong>
-        <br><em>Problem Solving Excellence</em>
+        <br><em>Solved 300+ Problems</em>
       </td>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
         <br>
         <img src="https://img.shields.io/badge/Linux_Foundation-Mentor-FF6B35?style=for-the-badge&logo=linux&logoColor=white" />
         <br><strong>🌟 Open Source Leadership</strong>
-        <br><em>Community Impact</em>
+        <br><em>5+ Contributors Mentored</em>
       </td>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
         <br>
-        <img src="https://img.shields.io/badge/CNCF-Contributor-00D084?style=for-the-badge&logo=cncf&logoColor=white" />
+        <img src="https://img.shields.io/badge/CNCF-Maintainer-00D084?style=for-the-badge&logo=cncf&logoColor=white" />
         <br><strong>☁️ Cloud Native Computing</strong>
         <br><em>Enterprise Solutions</em>
       </td>
@@ -359,46 +522,50 @@ const saumya = {
       <td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
         <br><br>
-        <img src="https://img.shields.io/badge/Baatchit-Real_Time_Chat-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/MindMesh-Study_Platform-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
         <br><br>
-        <strong>🔥 MERN + Socket.io</strong>
+        <strong>🔥 Next.js + MERN Stack</strong>
         <br><br>
-        ✅ Secure Authentication<br>
-        💬 Real-time Messaging<br>
-        📱 Mobile Responsive<br>
-        🔔 Live Notifications
+        📹 WebRTC Video Calls<br>
+        🎨 Collaborative Whiteboard<br>
+        💻 Real-time Code Editor<br>
+        📊 Analytics Dashboard<br>
+        💳 Razorpay Integration<br>
+        🔐 JWT Authentication<br><br>
+        <strong>Impact: 40% ↑ Productivity</strong>
       </td>
       <td align="center" width="33%" style="border: 2px solid #FF6B35; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
         <br><br>
-        <img src="https://img.shields.io/badge/VeloRent-Car_Rental_Platform-FF6B35?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/ResQCart-AI_Powered-FF6B35?style=for-the-badge&logo=python&logoColor=white" />
         <br><br>
-        <strong>🚗 MERN + Stripe</strong>
+        <strong>🚗 React + Python + ML</strong>
         <br><br>
-        💳 Payment Integration<br>
-        🔐 JWT Authentication<br>
-        📊 Admin Dashboard<br>
-        📧 Email Verification
+        🤖 78% Prediction Accuracy<br>
+        💰 Dynamic Pricing<br>
+        🏪 Store Rebalancing<br>
+        📊 Analytics Dashboard<br>
+        🎯 1,400+ Image Dataset<br>
+        📈 2K+ Data Points<br><br>
+        <strong>AI Food Waste Prevention</strong>
       </td>
       <td align="center" width="33%" style="border: 2px solid #FF4088; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
         <br><br>
-        <img src="https://img.shields.io/badge/AI_Resume_Analyzer-ML_Powered-FF4088?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/KubeStellar-Design_System-FF4088?style=for-the-badge&logo=kubernetes&logoColor=white" />
         <br><br>
-        <strong>🧠 Python + Flask + ML</strong>
+        <strong>🧠 TypeScript + React</strong>
         <br><br>
-        🤖 NER Processing<br>
-        📄 PDF Analysis<br>
-        📈 Smart Categorization<br>
-        🔍 Skills Extraction
+        🎨 25+ UI Components<br>
+        ♿ WCAG 2.1 AA Compliant<br>
+        📚 Next.js Documentation<br>
+        🎯 3D Kubernetes Visuals<br>
+        ☁️ 99.9% Uptime<br>
+        📈 35% Performance Boost<br><br>
+        <strong>CNCF Production System</strong>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oksaumya&bg_color=0d1117&color=6366f1&line=6366f1&point=ff6b35&area=true&hide_border=true&custom_title=📈%20Contribution%20Journey" alt="Contribution Graph" />
 </div>
 
 ---
@@ -460,12 +627,12 @@ const saumya = {
   <table>
     <tr>
       <td align="center">
-        <a href="https://codeforces.com/profile/YOURUSERNAME" target="_blank">
+        <a href="https://codeforces.com/profile/oksaumya" target="_blank">
           <img src="https://img.shields.io/badge/🏆_Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/YOURUSERNAME" target="_blank">
+        <a href="https://leetcode.com/oksaumya" target="_blank">
           <img src="https://img.shields.io/badge/💡_LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
         </a>
       </td>
@@ -496,7 +663,7 @@ const saumya = {
   
   <p><strong>If you like what I do and want to support my open source contributions:</strong></p>
   
-  <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/oksaumya" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
   </a>
   
