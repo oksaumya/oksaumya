@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Web+Developer;🤖+Generative+AI+%26+Machine+Learning+Engineer;🎨+UI%2FUX+Designer+%26+Design+Systems+Architect;📊+Data+Analyst+%26+ML+Pipeline+Builder;☁️+CNCF+Maintainer+%40+KubeStellar;🎓+LFX+Mentor+%40+Linux+Foundation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%A4%96+Generative+AI+%26+Machine+Learning+Engineer;%F0%9F%8E%A8+UI%2FUX+Designer+%26+Design+Systems+Architect;%F0%9F%93%8A+Data+Analyst+%26+ML+Pipeline+Builder;%E2%98%81%EF%B8%8F+CNCF+Maintainer+%40+KubeStellar;%F0%9F%8E%93+LFX+Mentor+%40+Linux+Foundation" alt="Typing SVG" />
 </div>
 
 <br>
@@ -28,18 +28,21 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34" /> **About Me**
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34" /> <strong>About Me</strong> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34" />
+</div>
 
 <br>
 
-<p>
+<div align="center">
+<p><font size="4">
 I'm a passionate <strong>Full Stack Developer</strong>, <strong>Gen AI Engineer</strong>, <strong>UI/UX Designer</strong>, and <strong>Data Analyst</strong> who loves building scalable web apps and intelligent AI-powered solutions. Currently pursuing <strong>B.Tech in Computer Science & AI</strong> at Newton School of Technology, with a <strong>1270+ Codeforces rating</strong> and a drive to turn complex ideas into elegant digital experiences.
-</p>
+</font></p>
 
-<p>
+<p><font size="4">
 Working as a <strong>Generative AI Intern @ Kunishe Software</strong>, I develop OCR solutions with PaddleOCR, build vector-based document matching with Qdrant, and create intelligent ML pipelines. As an <strong>LFX Mentor @ Linux Foundation</strong> and <strong>Core Maintainer @ CNCF KubeStellar</strong>, I've guided 15+ contributors and shipped production-ready design systems used at enterprise scale.
-</p>
+</font></p>
+</div>
 
 <br>
 
