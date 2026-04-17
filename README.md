@@ -56,7 +56,7 @@ const saumya = {
 
   skills: {
     fullStack:  ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"],
-    ai_ml:      ["PaddleOCR", "Qdrant", "HuggingFace", "scikit-learn", "BERT NER"],
+    ai_ml:      ["TensorFlow", "PyTorch", "HuggingFace", "GenAI", "Vector DBs", "OCR", "scikit-learn"],
     design:     ["Figma", "Adobe XD", "Three.js", "WCAG 2.1 AA", "Design Systems"],
     data:       ["Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL", "Excel"],
     devops:     ["Docker", "Kubernetes", "AWS", "Oracle Cloud", "GitHub Actions"],
@@ -120,6 +120,7 @@ const saumya = {
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062FF?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT_NER-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
